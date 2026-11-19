@@ -196,7 +196,6 @@ flowchart TB
 | **Sat Nov 22** | Open Food Facts integration + caching new products into MongoDB |
 | **Mon Nov 24** | Expo app scaffold, tab navigation (Scan / Pantry / Recipes / Stores), camera barcode scanner working |
 | **Tue Nov 25** | Connect scanner → API → show verdict screen |
-
 | **Sat Nov 29** | Auth (register/login, JWT) on server + login screen in app |
 | **Mon Dec 1** | Pantry: add from scan result, list, delete (full CRUD) |
 | **Tue Dec 2** | AI #1: LLM gluten check for products with unclear labels |
