@@ -133,6 +133,8 @@ erDiagram
 
 ## 3. System Design
 
+> 📐 Full system design (security boundaries, scaling, costs): [SYSTEM_DESIGN.md](SYSTEM_DESIGN.md)
+
 ```mermaid
 flowchart TB
     subgraph Phone["iPhone (Expo Go)"]
